@@ -1,1 +1,1 @@
-# Resampling-Method-Project
+# Resampling Methods Project 
